@@ -1,2 +1,2 @@
-# The_Partial_Dropout
+# Partial Dropout
 Deep Learning model with MNIST dataset
